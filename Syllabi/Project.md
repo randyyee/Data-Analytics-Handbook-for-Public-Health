@@ -1,0 +1,20 @@
+- **Project**
+  - **Project Management**
+    - Team Setup
+    - Frameworks
+    - Engineering Principles
+    - Requirements Gathering
+    - Case Study: Nigeria Analytics Workspace (NAWS)
+  - **Selecting Technology**
+    - Case Study: Business Intelligence Matrix for Cares Act
+  - **Wireframing and Storyboarding**
+    - Case Study: Country Data and/or MSD
+  - **Collaboration**
+    - Case Study: Office 365
+    - Collecting and Using Feedback and User Metrics
+  - **Landscape Assessment**
+  - **Change Management**
+    - Case Study: Panorama Dossier Development
+  - **Governance**
+    - Case Study: ICPI Structure
+  - **Conducting Meetings**
