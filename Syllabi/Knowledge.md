@@ -1,0 +1,21 @@
+- **Knowledge**
+  - **Knowledge Management**
+    - Sustainability
+    - Documentation (Data Dictionaries, Style Guide, Code Repositories like Github, etc.)
+    - Case Study: The ICPI Repo
+    - Case Study: MozART Repo
+  - **Onboarding**
+    - Standing up a Data Central
+    - Case Study: DGHT Data Central
+  - **Capacity Building**
+    - Providing Technical Assistance
+    - The Core Competencies
+    - Designing Trainings
+      - Exercise: Skills Survey
+      - Case Study: Power BI Workshop
+      - In-Person Trainings
+      - Virtual Trainings
+    - Facilitation
+    - Designing Trainings
+    - Onboarding
+    - Case Study: ICPI Onboarding
