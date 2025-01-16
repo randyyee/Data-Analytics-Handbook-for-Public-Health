@@ -1,0 +1,44 @@
+- **Visualization**
+  - **Fundamentals**
+    - The Importance of Data Analytics
+    - Data Visualization Types and Analytic Question Framework
+    - Case Study: PEPFAR Viz Library
+    - Quantitative and Qualitative Data Visualizations
+  - **Software Overview and Hierarchy of Need**
+    - Style Systems
+    - Design Thinking
+  - **Exploratory Data Analysis**
+    - Excel Pivot Tables
+    - Case Study: MSD Pivots
+    - Summary Statistics in R
+    - Case Study: Country Example
+    - Exploratory Visual Analysis with Excel and Power BI
+    - Case Study: MSD
+  - **Visualization Design**
+    - Code of Ethics
+    - Visual Encoding and Dark Patterns
+    - Visualizing Error & Uncertainty
+    - Case Study: The 95's
+    - Color
+    - Best Practices (508 Compliance, etc.)
+    - Infographics
+    - Case Study: World AIDS Day
+    - Designing for the Public
+    - Case Study: HQ Example
+    - Case Study: Country Example
+  - **Visualizing Modeling and Machine Learning**
+    - Case Study: COVID-19 Vaccine Supply and Operations Planning
+    - Case Study: Nigeria IIT Prediction
+  - **Mapping & Cartography**
+    - Map Types
+    - Basic Maps in Excel/Power BI
+    - Case Study: Country and/or MSD
+    - Advanced Analysis using GIS
+    - Case Study: Recency Hotspot
+  - **Interactive Visualizations**
+    - Slicers
+    - Visual Interactions and Drilldowns in Power BI
+    - Animation
+    - Case Study: Country Data and/or MSD
+  - **Analytics Workspaces**
+    - Case Study: Analytics Workspaces
