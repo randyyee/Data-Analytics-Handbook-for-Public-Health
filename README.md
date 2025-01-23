@@ -1,3 +1,5 @@
+**Overview**
+
 The Data Analytics Handbook for Public Health serves as a comprehensive guide to understanding and applying data analytics within the field of public health. Data is the bedrock for every public health response. Rooted in lessons learned from the U.S. President's Emergency Plan for AIDS Relief (PEPFAR) and other global health initiatives, this handbook highlights the transformative power of data in addressing health challenges worldwide.
 
 Contributing authors bring a wealth of practical experience, offering insights through real-world case studies. These case studies showcase how data analytics can be used to inform decision-making, optimize health interventions, and improve outcomes in diverse public health contexts.
